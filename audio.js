@@ -3,7 +3,7 @@ let fondo = document.getElementById("MusicaFondo");
 
 
 function MusicaFondo() {
-    fondo.src = "images/cancion.mp3";
+    fondo.src = "images/vaquera.mp3";
 
     if (sound) {
         fondo.volume = 0.7;
